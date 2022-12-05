@@ -1,0 +1,83 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+.zpet-viceomne {
+    margin: 15px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.zpet-viceomne a {
+    color: #005e04;
+}
+
+.nav-bar-cíle1 {
+    width: 100%;
+    margin-left: 310px;
+}
+
+.nav-bar-cíle2 {
+    width: 350px;
+    height: 400px;
+}
+
+.h1-viceomne {
+    color: white;
+    display: flex;
+    justify-content: center;
+    font-size: 45px;
+}
+
+.nav-bar-konicky1 {
+    width: 100%;
+    
+}
+
+.nav-bar-konicky2 {
+    
+    width: 450px;
+    height: 400px;
+}
+
+.nav-bar-celeviceomne {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.konicky-fotbal {
+    color: white;
+    padding: 10px;
+}
+
+.konicky-sipky {
+    color: white;
+    padding: 10px;
+}
+
+.zbytektextu-konicky {
+    color: white;
+    padding: 10px;
+}
+
+.p-konicky {
+    color: white;
+    padding: 10px;
+    font-size: 25px;   
+}
+
+.p-cíle {
+    color: white;
+    padding: 10px;
+    font-size: 25px;   
+}
+
+.p-cile-text {
+    color: white;
+    padding: 10px;
+    font-size: 16px
+    px; 
+
+}

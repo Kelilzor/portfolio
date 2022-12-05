@@ -1,0 +1,54 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+.zpet-prace {
+    margin: 15px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.zpet-prace a {
+    color: blue;
+}
+
+.h1-work h1 {
+    color: white;
+    display: flex;
+    justify-content: center;
+}
+
+.h3-nabídka h3 {
+    color: white;
+    margin-top: 15px;
+    padding-bottom: 13px;
+}
+
+.nav-bar-prace-nabidka {
+    width: 500px;
+    height: 400px;
+}
+
+.nav-bar-prace-nabidka1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.h3-ceník h3 {
+    color: white;
+    margin-top: 15px;
+    padding-bottom: 13px;
+}
+
+.p-lorem1 {
+    color: white;
+    font-size: 20px;
+}
+
+.p-lorem2 {
+    color: white;
+    font-size: 20px;
+}

@@ -1,0 +1,69 @@
+* {
+    padding: 0;
+    margin: 0;
+    text-decoration: none;
+}
+
+.h1-kontakt {
+    color: white;
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+}
+
+.nav-bar-kontakt-1 {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+
+.nav-bar-kontakt-2 {
+    width: 400px;
+    height: 400px;
+    margin-top: 30px;
+    
+}
+
+.tel-cislo {
+    color: white;
+    font-size: larger;
+    padding: 15px;
+}
+
+.e-mail {
+    color: white;
+    font-size: larger;
+    padding: 15px;
+}
+
+.home {
+    color: white;
+    font-size: larger;
+    padding: 15px;
+}
+
+.home-odkaz {
+    color: white;
+}
+
+.zpet-kontakt {
+    margin: 15px;
+    font-size: 25px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.zpet-kontakt a {
+    color: red;
+}
+
+.home-odkaz:hover {
+    color: red;
+}
+
+.email-odkaz {
+    color: white;
+}
+
+.email-odkaz:hover {
+    color: red;
+}
